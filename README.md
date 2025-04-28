@@ -41,15 +41,6 @@ cd portfolio
 open index.html
 ```
 
-*Contributing*
-[Insert contribution guidelines or note that this is a personal project]
-
-*License*
-[Insert license information, e.g., MIT License]
-
-*Contact*
-[Insert contact information, e.g., email address or social media links]
-```
 
 Just replace the links, text, and other details with your own information to make it fit your portfolio. Good luck with your project!
 ```
